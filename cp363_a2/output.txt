@@ -1,0 +1,1100 @@
+Login
+Username: temp
+Password: 123456
+Welcome Back!
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 123456
+Producer ID: 111111
+Producer Name: bruno mars
+Release Date(yyyy-mm-dd): 2016-12-30
+Album Title: 24K Magic
+Price: 43.56
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 234567
+Producer ID: 222222
+Producer Name: the weekend
+Release Date(yyyy-mm-dd): 2016-07-06
+Album Title: starboy
+Price: 56.65
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 345678
+Producer ID: 333333
+Producer Name: drake
+Release Date(yyyy-mm-dd): 2015-05-23
+Album Title: views
+Price: 65.42
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 456789
+Producer ID: 444444
+Producer Name: ed sheeran
+Release Date(yyyy-mm-dd): 2017-02-01
+Album Title: divide
+Price: 78.12
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 555555
+Producer ID: 121212
+Producer Name: zedd
+Release Date(yyyy-mm-dd): 2014-06-15
+Album Title: true colors
+Price: 13.50
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 654321
+Producer ID: 676767
+Producer Name: green day
+Release Date(yyyy-mm-dd): 2005-06-25
+Album Title: american idiot
+Price: 23.99
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 765432
+Producer ID: 898989
+Producer Name: paramore
+Release Date(yyyy-mm-dd): 2003-11-09
+Album Title: paramoe
+Price: 43.32
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 876543
+Producer ID: 100101
+Producer Name: avicii
+Release Date(yyyy-mm-dd): 2013-02-25
+Album Title: stories
+Price: 32.50
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 987654
+Producer ID: 123321
+Producer Name: maroon 5
+Release Date(yyyy-mm-dd): 2015-03-30
+Album Title: v
+Price: 65.99
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> a
+Album Information
+
+Album ID: 999999
+Producer ID: 654456
+Producer Name: kuba ohms
+Release Date(yyyy-mm-dd): 2013-02-25
+Album Title: adhd
+Price: 65.99
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 1
+Author ID: 111111
+Author Name: bruno mars
+Song Title: 24
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 2
+Author ID: 111111
+Author Name: bruno mars
+Song Title: chunky
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 3
+Author ID: 111111
+Author Name: bruno mars
+Song Title: perm
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 4
+Author ID: 111111
+Author Name: bruno mars
+Song Title: thats what i like
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 5
+Author ID: 111111
+Author Name: bruno mars
+Song Title: versace on the florr
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 6
+Author ID: 111111
+Author Name: bruno mars
+Song Title: straight up & down
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 7
+Author ID: 111111
+Author Name: bruno mars
+Song Title: calling all my lovelies
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 8
+Author ID: 111111
+Author Name: bruno mars
+Song Title: finesse
+Album ID: 123456
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 20
+Author ID: 20
+Author Name: daft punk
+Song Title: starboy
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 10
+Author ID: 222222
+Author Name: the weekend
+Song Title: party monster
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 30
+Author ID: 222222
+Author Name: the weekend
+Song Title: false alarm
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 40
+Author ID: 30
+Author Name: lana del rey
+Song Title: stargirl interlude
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 50
+Author ID: 40
+Author Name: kendrick lamar
+Song Title: sidewalks
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 60
+Author ID: 222222
+Author Name: the weekend
+Song Title: rockin
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 70
+Author ID: 222222
+Author Name: the weekend
+Song Title: true colors
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 88
+Author ID: 222222
+Author Name: the weekend
+Song Title: secrets
+Album ID: 234567
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 100
+Author ID: 333333
+Author Name: drake
+Song Title: 9
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 101
+Author ID: 333333
+Author Name: drake
+Song Title: u with me?
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 102
+Author ID: 333333
+Author Name: drake
+Song Title: feel no ways
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 103
+Author ID: 333333
+Author Name: drake
+Song Title: hype
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 104
+Author ID: 333333
+Author Name: drake
+Song Title: weston road flows
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 105
+Author ID: 333333
+Author Name: drake
+Song Title: still here
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 106
+Author ID: 333333
+Author Name: drake
+Song Title: childs play
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 107
+Author ID: 300000
+Author Name: future
+Song Title: grammys
+Album ID: 345678
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 200
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: eraser
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 201
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: dive
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 202
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: shape of you
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 203
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: perfect
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 204
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: galway girl
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 205
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: happier
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 206
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: new man
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 207
+Author ID: 444444
+Author Name: ed sheeran
+Song Title: barcelona
+Album ID: 456789
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 111
+Author ID: 121212
+Author Name: zedd
+Song Title: illusion
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 222
+Author ID: 121212
+Author Name: zedd
+Song Title: daisy
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 333
+Author ID: 100
+Author Name: botnek
+Song Title: bumble bee
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 444
+Author ID: 105
+Author Name: troye sivan
+Song Title: papercut
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 555
+Author ID: 121212
+Author Name: zedd
+Song Title: straight into the fire
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 6667
+Author ID: 121212
+Author Name: zedd
+Song Title: true colors
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 777
+Author ID: 121212
+Author Name: zedd
+Song Title: done with love
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 888
+Author ID: 121212
+Author Name: zedd
+Song Title: transmission
+Album ID: 555555
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 300
+Author ID: 676767
+Author Name: green day
+Song Title: whatsername
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 301
+Author ID: 676767
+Author Name: green day
+Song Title: homecoming
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 302
+Author ID: 676767
+Author Name: green day
+Song Title: wake me up
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 303
+Author ID: 676767
+Author Name: green day
+Song Title: letterbomb
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 304
+Author ID: 676767
+Author Name: green day
+Song Title: shes a rebel
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 305
+Author ID: 676767
+Author Name: green day
+Song Title: st jimmy
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 306
+Author ID: 676767
+Author Name: green day
+Song Title: american idiot
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 307
+Author ID: 676767
+Author Name: green day
+Song Title: holiday
+Album ID: 654321
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 400
+Author ID: 898989
+Author Name: paramore
+Song Title: fast in my car
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 401
+Author ID: 898989
+Author Name: paramore
+Song Title: now
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 402
+Author ID: 898989
+Author Name: paramore
+Song Title: grow up
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 403
+Author ID: 898989
+Author Name: paramore
+Song Title: daydreaming
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 404
+Author ID: 898989
+Author Name: paramore
+Song Title: aint it fun
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 405
+Author ID: 898989
+Author Name: paramore
+Song Title: proof
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 406
+Author ID: 898989
+Author Name: paramore
+Song Title: be alone
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 407
+Author ID: 898989
+Author Name: paramore
+Song Title: future
+Album ID: 765432
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 550
+Author ID: 123096
+Author Name: mason
+Song Title: waiting for love
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 551
+Author ID: 147852
+Author Name: neil
+Song Title: talk to myself
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 552
+Author ID: 100101
+Author Name: avicii
+Song Title: touch me
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 553
+Author ID: 100101
+Author Name: avicii
+Song Title: ten more days
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 554
+Author ID: 100101
+Author Name: avicii
+Song Title: fora better day
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 556
+Author ID: 100101
+Author Name: avicii
+Song Title: broken arrows
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 557
+Author ID: 100101
+Author Name: avicii
+Song Title: city lights
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 558
+Author ID: 100101
+Author Name: avicii
+Song Title: true believer
+Album ID: 876543
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 880
+Author ID: 123321
+Author Name: maroon 5
+Song Title: maps
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 881
+Author ID: 123321
+Author Name: maroon 5
+Song Title: animals
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 882
+Author ID: 963963
+Author Name: gwen stefani
+Song Title: my heart is open
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 883
+Author ID: 123321
+Author Name: maroon 5
+Song Title: unkiss me
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 884
+Author ID: 123321
+Author Name: maroon 5
+Song Title: sugar
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 885
+Author ID: 123321
+Author Name: maroon 5
+Song Title: new love
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 886
+Author ID: 123321
+Author Name: maroon 5
+Song Title: feelings
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 887
+Author ID: 123321
+Author Name: maroon 5
+Song Title: coming back for you
+Album ID: 987654
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 990
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: come together
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 991
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: my firend
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 992
+Author ID: 852852
+Author Name: kumiko
+Song Title: my love
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 993
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: 7 seconds
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 994
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: all in all
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 995
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: this is love
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 996
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: love is my drug
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> s
+Song Information
+
+Song ID: 997
+Author ID: 654456
+Author Name: kuba ohms
+Song Title: dont stop feelin
+Album ID: 999999
+What would you like to do
+   Add Album(A)
+   Add Song(s)
+   Quit(Q)
+-> q
+Finished!
